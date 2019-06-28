@@ -1,0 +1,171 @@
+body{
+ border:1px solid black;
+ margin: 0px;
+ width: 1366px;
+ height: 100%;
+ padding: 5px;
+ box-sizing: border-box;
+
+}
+header{
+    border: 1px solid greenyellow;
+    padding: 10px ;
+}
+header ul{
+list-style: none;
+display: flex;
+justify-content: center;
+
+
+}
+header ul li {
+ margin: 0 10px;
+
+}
+.middle{
+    height: 600px;
+background-image: url("images/Wallpapers-For-Designers-3.jpg");
+background-size: cover;
+border: 1px solid red;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+
+
+
+
+
+}
+.part1{
+    
+ background-color: blue;
+
+}
+.icon{
+    border: 1px solid black;
+   
+}
+.icon ul{
+    margin: 0px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+}
+.icon ul li {
+    margin: 0 10px;
+   
+   }
+.part2{
+    
+    
+    
+ margin: auto;
+   
+    text-align: center;
+   
+    background-color: brown;
+}
+section{
+   border:1px solid purple;
+   width: 100%;
+ 
+
+}
+.section1{
+    height: 400px;
+ width: 75%;
+    display: flex;
+   
+
+}
+.section2{
+  height: 200px;  
+ width: 75%;
+  border: 2px solid red;  
+   
+
+}
+.section11{
+    width: 50%;
+    height: 100%;
+    border: 1px solid green;
+    display: flex;
+    justify-content: flex-start;
+}
+.section12{
+    
+    border:1px solid green;
+    width: 50%;
+    height: 100%;
+    
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+
+}
+.section2 ul{
+   
+   padding: 0px;
+   width: 100%;
+   display: flex;
+   justify-content: flex-start;
+   align-items: center
+
+}
+ 
+   
+  
+  .section2 ul li{
+   list-style: none;
+   margin: 0px 40px;
+   
+  
+  }
+  .wrapper{
+      width: 100%;
+      border: 1px solid palevioletred;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  }
+  .section30{
+    width: 100%;
+    height: 600px;
+    
+   
+  }
+  .backimage{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width:100%;
+      height: 100%;;
+    background-image: url("images/ig_home_canvas_vista_20190513.jpg.rendition.480.480.jpg");
+    background-size: cover;
+  text-align: center;
+
+  }
+
+       div ul {
+           margin: 0px;
+           display: flex;
+           
+       }
+       div ul li{
+     padding: 0px;
+     margin: 0px 10px;
+
+       }
+       .icon2{
+           display: flex;
+       }
+ 
+       
